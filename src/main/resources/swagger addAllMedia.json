@@ -1,0 +1,162 @@
+[
+    {
+        "id": 1,
+        "title": "The Shining",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": 18,
+        "price": 10.99
+    },
+    {
+        "id": 2,
+        "title": "Jaws",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": "18",
+        "price": 4.99
+    },
+    {
+        "id": 3,
+        "title": "Jaws 2",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": "18",
+        "price": 3.99
+    },
+    {
+        "id": 4,
+        "title": "Jaws 3",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": "18",
+        "price": 5.99
+    },
+    {
+        "id": 5,
+        "title": "Jaws 4",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": "18",
+        "price": 2.99
+    },
+    {
+        "id": 6,
+        "title": "Gremlins",
+        "type": "dvd",
+        "genre": "Horror",
+        "ageRating": "18",
+        "price": 5.99
+    },
+    {
+        "id": 7,
+        "title": "The Hobbit",
+        "type": "book",
+        "genre": "Fantasy",
+        "ageRating": "18",
+        "price": 6.99
+    },
+    {
+        "id": 8,
+        "title": "Lord of the rings",
+        "type": "book",
+        "genre": "Fantasy",
+        "ageRating": "18",
+        "price": 7.99
+    },
+    {
+        "id": 9,
+        "title": "Harry Potter",
+        "type": "book",
+        "genre": "Fantasy",
+        "ageRating": "18",
+        "price": 3.99
+    },
+    {
+        "id": 10,
+        "title": "Ghostbusters",
+        "type": "bluray",
+        "genre": "comedy",
+        "ageRating": "12",
+        "price": 13.99
+    },
+    {
+        "id": 11,
+        "title": "Ghostbusters 2",
+        "type": "bluray",
+        "genre": "comedy",
+        "ageRating": "12",
+        "price": 13.99
+    },
+    {
+        "id": 12,
+        "title": "Halo",
+        "type": "xbox",
+        "genre": "FPS",
+        "ageRating": "12",
+        "price": 25.99
+    },
+    {
+        "id": 13,
+        "title": "Halo 2",
+        "type": "xbox",
+        "genre": "FPS",
+        "ageRating": "12",
+        "price": 29.99
+    },
+    {
+        "id": 14,
+        "title": "Gears of war",
+        "type": "xbox_series_x",
+        "genre": "FPS",
+        "ageRating": "16",
+        "price": 29.99
+    },
+    {
+        "id": 15,
+        "title": "Bug",
+        "type": "sega_saturn",
+        "genre": "platformer",
+        "ageRating": "PG",
+        "price": 23.99
+    },
+    {
+        "id": 16,
+        "title": "Mario 64",
+        "type": "N64",
+        "genre": "platformer",
+        "ageRating": "PG",
+        "price": 33.99
+    },
+    {
+        "id": 17,
+        "title": "Mario Kart",
+        "type": "SNES",
+        "genre": "driving",
+        "ageRating": "PG",
+        "price": 29.99
+    },
+    {
+        "id": 18,
+        "title": "wipeout",
+        "type": "ps1",
+        "genre": "driving",
+        "ageRating": "PG",
+        "price": 13.99
+    },
+    {
+        "id": 19,
+        "title": "tomb raider",
+        "type": "ps1",
+        "genre": "platformer",
+        "ageRating": "PG",
+        "price": 13.99
+    },
+    {
+        "id": 20,
+        "title": "tomb raider 2",
+        "type": "ps1",
+        "genre": "platformer",
+        "ageRating": "PG",
+        "price": 13.99
+    }
+]

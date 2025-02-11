@@ -1,0 +1,8 @@
+spring:
+ application:
+  name: media
+ config:
+  activate:
+   on-profile: test
+server:
+ port: 8989

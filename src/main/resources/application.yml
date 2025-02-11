@@ -1,0 +1,12 @@
+spring:
+ application:
+  name: MediaMongoDatabase
+ profiles:
+  active: dev
+ data: 
+  mongodb:
+   host: localhost
+   port: 28017
+   database: MediaMongoDatabase
+server:
+ port: 8989
